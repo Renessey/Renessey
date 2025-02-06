@@ -1,4 +1,4 @@
-- 👋 Hi, Eu sou @Renessey e estou disposto a batalhar junto com todos!
+- 👋 Hi, Eu sou @Renessey e estou disposto a crescer junto com todos!
 -  Meu interesse é codificar
 
 
