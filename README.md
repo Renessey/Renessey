@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Renan Monteiro, tenho 25 anos e sou natural do Rio de janeiro. Atualmente, estou cursando engenharia de software. Sou apaixonado por tecnologia.
+Me chamo Renan Monteiro, sou natural do Rio de janeiro. Atualmente, estou cursando engenharia de software. Sou apaixonado por tecnologia.
 
 ---
 
